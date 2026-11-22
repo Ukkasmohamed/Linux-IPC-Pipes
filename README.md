@@ -26,7 +26,10 @@ Testing the C Program for the desired output.
 ## C Program that illustrate communication between two process using unnamed pipes using Linux API system calls
 
 
+<img width="1854" height="1048" alt="image" src="https://github.com/user-attachments/assets/ad67a097-b30f-4ff7-b9e1-f00ae0c9a63a" />
 
+<img width="1854" height="1048" alt="Screenshot from 2026-10-17 08-37-44" src="https://github.com/user-attachments/assets/aacce661-1fc4-464d-8799-41e66bc50132" />
+<img width="1854" height="1048" alt="Screenshot from 2026-10-17 08-22-14" src="https://github.com/user-attachments/assets/1bafc8f4-b5eb-4ed6-9618-3ff5372f02e4" />
 
 
 ## OUTPUT
